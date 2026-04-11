@@ -3,7 +3,6 @@ name: learn-from-experience
 slug: learn-from-experience
 version: 1.3.0
 description: "Learn from experience: self-reflection + self-criticism + self-learning + self-organizing memory + cross-session sync. Agent evaluates its own work, catches mistakes, and improves permanently. Compiles confirmed learnings to global config for automatic cross-session persistence. Use when (1) a command, tool, API, or operation fails; (2) the user corrects you or rejects your work; (3) you realize your knowledge is outdated or incorrect; (4) you discover a better approach; (5) the user explicitly installs or references the skill for the current task."
-changelog: "v1.3.0: Rebrand to learn-from-experience. Add cross-session memory sync protocol — compile confirmed preferences to agent global config for automatic loading in new sessions. Multi-agent compatibility: Claude Code, OpenClaw, Codex CLI, OpenCode, Gemini CLI, Agentica, CodeBuddy, Cursor, Windsurf."
 metadata: {"clawdbot":{"emoji":"🧠","requires":{"bins":[]},"os":["linux","darwin","win32"],"configPaths":["~/learn-from-experience/"],"configPaths.optional":["./AGENTS.md","./SOUL.md","./HEARTBEAT.md"]}}
 ---
 
