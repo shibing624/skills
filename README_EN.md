@@ -73,7 +73,7 @@ Each skill uses `SKILL.md` as its entry point -- the agent reads it first when l
 - **GitHub Issues** — [Submit an issue](https://github.com/shibing624/skills/issues)
 - **WeChat Group** — Add WeChat ID `xuming624`, note "nlp", to join the tech group
 
-<img src="https://github.com/shibing624/skills/blob/main/docs/wechat.jpeg" width="200" />
+<img src="https://github.com/shibing624/TreeSearch/blob/main/docs/wechat.jpeg" width="200" />
 
 ## License
 
